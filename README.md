@@ -27,3 +27,13 @@ The main goal of this project is to demonstrate the practical use of **Stack** d
 1. Compile the code:
    ```bash
    g++ text_editor.cpp -o editor
+2. run it on terminal:
+   On Linux/MacOS:
+   ```bash
+   ./editor
+   ```
+   On Windows:
+   ```bash
+   editor.exe
+   ```
+   
